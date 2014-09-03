@@ -12,7 +12,7 @@ Testing:
 - Arquillian + REST-assured web service test
 
 What you need to get it running:
-- Maven en Java environment + variables setup
+- Maven and Java + environment variables setup
 - JBOSS EAP unzipped http://jbossas.jboss.org/downloads/, note JBOSS root folder path
 - Change src/test/resources/arquillian.xml:12 <property name="jbossHome">...</property> to the JBOSS root folder path
 
