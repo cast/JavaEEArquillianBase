@@ -18,3 +18,5 @@ What you need to get it running:
 
 How to run:
 mvn package -P arq-jbossas-managed
+
+More info: http://www.michaelwillemse.com
